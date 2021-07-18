@@ -1,5 +1,7 @@
 # Wallpaper Discovery Flutter App
 
+**PLEASE VISIT MASTER BRANCH (https://github.com/yash-047/flutter-bootcamp-project/tree/master) FOR THE APP FILES**
+
 A simple wallpaper discovery app made with flutter. It uses Pexels API to fetch images. It can help you find new wallpapers and also has an option to set any image as a wallpaper directly from the app itself! 
 
 -----
